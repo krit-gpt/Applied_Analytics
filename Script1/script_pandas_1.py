@@ -1,12 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 19 20:39:18 2018
-
-@author: Neehar
-"""
-
-print("Howdy from within my iPython Console")
-
 obs1 = [1, 2, 3]
 obs2 = [3, 4, 5]
 data = [obs1, obs2]
